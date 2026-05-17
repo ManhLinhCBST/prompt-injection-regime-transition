@@ -13,7 +13,15 @@ Cross-model evidence that successful prompt injection events induce persistent p
 ## Full writeup
 
 See: [ml_cbst_v5_state_drift.md](ml_cbst_v5_state_drift.md)
+## Example Runtime Trace
 
+### Leak Transition
+
+![Leak Transition](images/leak_transition_example.png)
+
+### Entropy Recovery
+
+![Entropy Recovery](images/entropy_recovery_trace.png)
 ## Status
 
 Exploratory independent research note. Selected artifacts may be shared for verification.
