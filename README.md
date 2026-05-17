@@ -12,7 +12,7 @@ Cross-model evidence that successful prompt injection events induce persistent p
 
 ## Full writeup
 
-See: [`docs/v5_state_drift.md`](docs/v5_state_drift.md)
+See: [ml_cbst_v5_state_drift.md](ml_cbst_v5_state_drift.md)
 
 ## Status
 
