@@ -25,4 +25,4 @@ See: [ml_cbst_v5_state_drift.md](ml_cbst_v5_state_drift.md)
 ## Status
 
 Exploratory independent research note. Selected artifacts may be shared for verification.
-Contact: [email: tuequangedu@gmail.com ] 
+
